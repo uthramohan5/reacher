@@ -1,0 +1,7 @@
+ Kernel is the major component of OS and is the core interface between computer hardware and its processes.
+ 
+ Kernel is responsible for 4 major components:
+  1)Memory management
+  2)Process
+  3)Device Drivers
+  4)System calls & Security
