@@ -1,0 +1,9 @@
+GIT SQUASH:
+      Process of combining multiple commit histories in to single commit.
+      git rebase -i HEAD ~[No. of commits]
+      git rebase -i commit ID
+  TO VIEW THE AUTHOR OF THE FILE
+    git show [commit iD]
+  
+SHOW LATEST COMMIT IN A REPOSITORY
+   git log -n 1
