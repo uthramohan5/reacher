@@ -1,0 +1,8 @@
+There are seven layers included in network model
+1.PHUSICAL
+2.DATA-LINK
+3.NETWORK
+4.TRANSPORT
+5.SESSION
+6.PRESENTATION
+7.APPLICATION
